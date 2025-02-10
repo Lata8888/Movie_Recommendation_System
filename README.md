@@ -1,2 +1,2 @@
-# Movie_Recommendation_System (Machine Learning)
+# Movie Recommendation System (Machine Learning)
 In this project, we design and implement a Movie Recommendation System using machine learning techniques. The system utilizes cosine similarity to calculate the similarity between movies. By identifying closely related movies, the system provides personalized recommendations to users. Python is used as the programming language for developing the system, ensuring efficient computation and scalability.
